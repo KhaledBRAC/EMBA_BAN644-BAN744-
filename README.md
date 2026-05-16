@@ -1,9 +1,9 @@
 # 🫀 Heart Disease Prediction: A Strategic Machine Learning Approach
 **Course Project: BAN644/BAN744 - Applied Machine Learning for Business Analytics with Python**
+
 ## Key Highlights
 * **Best Performing Model:** Random Forest (Tuned)
 * **Model Accuracy:** 93.44% (0.9344)
-* **Target Metric (Healthcare Focus):** Recall (96.43%) and ROC-AUC (96.43%)
 
 ## Objective
 The goal of this project is to apply machine learning classification techniques to solve a real-world healthcare analytics problem: predicting whether a patient has heart disease based on clinical parameters.
