@@ -20,7 +20,7 @@ This project strictly follows a professional data science pipeline, ensuring mat
 ### Step 1: Data Preprocessing & Quality Assurance
 Raw data is rarely ready for immediate algorithmic deployment. 
 * Identified and handled missing values and duplicate records to ensure data integrity.
-* Applied `StandardScaler` to normalize numerical features. Algorithms like Logistic Regression perform optimally and converge faster when all variables are on a similar mathematical scale.
+* Applied  to normalize numerical features. Algorithms like Logistic Regression perform optimally and converge faster when all variables are on a similar mathematical scale.
 
 ### Step 2: Exploratory Data Analysis (EDA) & Feature Selection
 Before modeling, the relationships between variables were analyzed to reduce system noise.
